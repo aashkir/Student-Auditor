@@ -3,7 +3,6 @@ COMP2404: Christine Laurendeau, Assignment 4
 Author
 ---------------------------------------------
 Ahmed Ashkir (ahmedashkir@cmail.carleton.ca)
-Student Number: 101088255
 
 ---------------------------------------------
 Purpose
